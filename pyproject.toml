@@ -1,0 +1,7 @@
+[project]
+name = "compare-2-txt-files"
+version = "1.0.0"
+description = "A Python script that performs a one-way sync comparison between two text files. It identifies lines present in a source file that are missing from a destination file and compiles the differences into a unique output file."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
