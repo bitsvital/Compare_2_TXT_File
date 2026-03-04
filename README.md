@@ -64,8 +64,8 @@ This tool is a specialized text processor designed for line-by-line comparison a
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone git@github.com:bitsvital/Compare_2_TXT_File.git
+   cd Compare_2_TXT_File
    ```
 
 2. Create a virtual environment and install dependencies:
